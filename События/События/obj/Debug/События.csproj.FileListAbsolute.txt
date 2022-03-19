@@ -1,0 +1,7 @@
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\bin\Debug\События.exe.config
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\bin\Debug\События.exe
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\bin\Debug\События.pdb
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\obj\Debug\События.csprojAssemblyReference.cache
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\obj\Debug\События.csproj.CoreCompileInputs.cache
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\obj\Debug\События.exe
+E:\GitHub\Test1\alemasov1-BarsGroup\События\События\obj\Debug\События.pdb

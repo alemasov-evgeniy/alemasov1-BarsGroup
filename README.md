@@ -1,1 +1,0 @@
-# alemasov1-BarsGroup
