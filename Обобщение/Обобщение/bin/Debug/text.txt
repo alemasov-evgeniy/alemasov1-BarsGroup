@@ -4,3 +4,33 @@
 [Error] : [Int32] : Вызван метод LogError. Выдано исключение типа "System.Exception".
 [Info]: [Int32] : Вызван метод LogInfo
 [Warning] : [Int32] : Вызван метод LogWarning
+[Error] : [String] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [String] : Вызван метод LogInfo
+[Warning] : [String] : Вызван метод LogWarning
+[Error] : [Int32] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [Int32] : Вызван метод LogInfo
+[Warning] : [Int32] : Вызван метод LogWarning
+[Error] : [String] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [String] : Вызван метод LogInfo
+[Warning] : [String] : Вызван метод LogWarning
+[Error] : [Int32] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [Int32] : Вызван метод LogInfo
+[Warning] : [Int32] : Вызван метод LogWarning
+[Error] : [String] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [String] : Вызван метод LogInfo
+[Warning] : [String] : Вызван метод LogWarning
+[Error] : [Int32] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [Int32] : Вызван метод LogInfo
+[Warning] : [Int32] : Вызван метод LogWarning
+[Error] : [String] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [String] : Вызван метод LogInfo
+[Warning] : [String] : Вызван метод LogWarning
+[Error] : [Int32] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [Int32] : Вызван метод LogInfo
+[Warning] : [Int32] : Вызван метод LogWarning
+[Error] : [String] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [String] : Вызван метод LogInfo
+[Warning] : [String] : Вызван метод LogWarning
+[Error] : [Int32] : Вызван метод LogError. Выдано исключение типа "System.Exception".
+[Info]: [Int32] : Вызван метод LogInfo
+[Warning] : [Int32] : Вызван метод LogWarning
