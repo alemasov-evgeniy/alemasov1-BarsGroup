@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using NLog;
 
 namespace Обобщение
 {
@@ -39,7 +38,6 @@ namespace Обобщение
             {
                 w.WriteLine(message);
             }
-
         }
                 
     }
@@ -48,11 +46,16 @@ namespace Обобщение
         static void Main(string[] args)
         {
             Exception ex = new Exception();
-            LocalFileLogger<string> localFile = new LocalFileLogger<string>("text.txt");
-            localFile.LogError("Вызван метод LogError", ex);
-            localFile.LogInfo("Вызван метод LogInfo");
-            localFile.LogWarning("Вызван метод LogWarning");
-            //Console.ReadKey();
+            LocalFileLogger<string> localFileString = new LocalFileLogger<string>("text.txt");
+            LocalFileLogger<int> localFileInt = new LocalFileLogger<int>("text.txt");
+            localFileString.LogError("Вызван метод LogError", ex);
+            localFileString.LogInfo("Вызван метод LogInfo");
+            localFileString.LogWarning("Вызван метод LogWarning");
+            localFileInt.LogError("Вызван метод LogError", ex);
+            localFileInt.LogInfo("Вызван метод LogInfo");
+            localFileInt.LogWarning("Вызван метод LogWarning");
+            Console.WriteLine("Информация успешно записана в файл text.txt");
+            Console.ReadKey();
         }
     }
 }
