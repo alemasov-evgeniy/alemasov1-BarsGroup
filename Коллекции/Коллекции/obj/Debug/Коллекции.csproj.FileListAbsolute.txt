@@ -1,0 +1,7 @@
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\bin\Debug\Коллекции.exe.config
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\bin\Debug\Коллекции.exe
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\bin\Debug\Коллекции.pdb
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\obj\Debug\Коллекции.csprojAssemblyReference.cache
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\obj\Debug\Коллекции.csproj.CoreCompileInputs.cache
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\obj\Debug\Коллекции.exe
+E:\GitHub\alemasov1-BarsGroup\Коллекции\Коллекции\obj\Debug\Коллекции.pdb
